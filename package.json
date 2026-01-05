@@ -10,8 +10,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "@tanstack/devtools-vite": "^0.4.0",
+    "@tanstack/react-devtools": "^0.9.0",
+    "@tanstack/react-form": "^1.27.7",
+    "@tanstack/react-query": "^5.90.16",
+    "@tanstack/react-router": "^1.145.7",
+    "@tanstack/react-router-devtools": "^1.145.7",
+    "@tanstack/react-table": "^8.21.3",
+    "@tanstack/react-virtual": "^3.13.16",
+    "install": "^0.13.0",
+    "ky": "^1.14.2",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "tailwindcss": "^4.1.18",
+    "zod": "^4.3.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
